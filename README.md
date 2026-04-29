@@ -1,7 +1,8 @@
 
 # AIRus 
 
-Montre connecte pour la surveillence de la qualite de l'aire
+AirRUS est un dispositif IoT compact et autonome capable de mesurer en temps réel la qualité de l’air ambiant dans des environnements urbains, scolaires ou professionnels. L’objectif est de fournir des données précises sur les polluants pour sensibiliser les utilisateurs et améliorer les conditions de travail des élèves.
+Ce système permet aussi de détecter les pics de pollution intérieure ou extérieure et de générer des alertes via une interface web ou mobile et a un  bracelet connecté destiné aux enfants les plus vulnérables à savoir les asthmatique .le bracelet est composé d’un récepteur,un vibreure et d’un buzzer qui permet de prévenir l’enfant ou l’enseignant de prendre les précautions nécessaire en cas de pic de pollution.
 
 
 ## Plan
@@ -46,8 +47,13 @@ Montre connecte pour la surveillence de la qualite de l'aire
 
 ## Deploiement des capteurs
 
-What did you learn while building this project? What challenges did you face and how did you overcome them?
+Nous avons deployer 6 capteur 4 dans des etablissements scolaire(Lycee djignabo,CEM malick FALL,CEM Boucotte sud,Lycee ahoune sane) a ziguinchor 
+et 2 structures publics (Hopital regional de ziguinchor - Aeropor international de capskiring)
 
 ![Airgradient outdoor](httphttps://www.airgradient.com/outdoor/)
 
 ![Airgradient API](hhttps://api.airgradient.com/public/docs/api/v1/#/)
+
+### En image
+
+![]()
