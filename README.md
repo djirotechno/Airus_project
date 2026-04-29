@@ -45,8 +45,17 @@ Ce système permet aussi de détecter les pics de pollution intérieure ou exté
 ![architecture_airus](https://github.com/djirotechno/Airus_project/blob/main/architecture_airus.png)
 
 ### Cablage
-|pin5|
-||
+| Composant | ESP PIN   |
+| :-------- | :------- |
+| Oled1:GND |  esp:GND|
+| Oled1:VCC | esp:3V3|
+|Oled1:SCL | esp:D5 |
+|Oled1:SDA|esp:D4 |
+|Vibrateur:+| esp:5v|
+|Vibrateur:-|esp:GND|
+|BTouch:DAT|esp:D1|
+|BTouch:VCC | esp:3.3v|
+|BTouch:GND"|esp:GND|
 
 
 ## Deploiement des capteurs
