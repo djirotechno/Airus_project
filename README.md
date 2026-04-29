@@ -9,7 +9,7 @@ Montre connecte pour la surveillence de la qualite de l'aire
  - [Fonctionalites](#)
  - [Liste materiel](#)
  - [Architecture](#)
- - [Configuration](#)
+ - [Deploiement](#)
 
 ## Fonctionalitees
 
