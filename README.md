@@ -61,15 +61,8 @@ et 2 structures publics (Hopital regional de ziguinchor - Aeropor international 
 | ![image](https://github.com/djirotechno/Airus_project/blob/main/deploiement/IMG_2837.JPG) | ![Alt Text 2](https://github.com/djirotechno/Airus_project/blob/main/deploiement/IMG_2879.JPG) | ![Alt Text 3](https://github.com/djirotechno/Airus_project/blob/main/deploiement/IMG_2973.JPG) |
 
 ##Demo
-
-|| | |
-| :---: | :---: | :---: |
-|![video](https://github.com/djirotechno/Airus_project/blob/main/demo.mp4)|
-
-|![demo](https://youtube.com/shorts/V1lu1ZZ0HvY)|
-
-|<p align="center">
+<p align="center">
   <a href="https://youtube.com/shorts/V1lu1ZZ0HvY">
     <img src="https://img.youtube.com/vi/V1lu1ZZ0HvY/0.jpg" alt="Demo Video">
   </a>
-</p>|
+</p>
