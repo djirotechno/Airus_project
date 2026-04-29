@@ -64,4 +64,4 @@ et 2 structures publics (Hopital regional de ziguinchor - Aeropor international 
 
 || | |
 | :---: | :---: | :---: |
-|![demo](https://youtube.com/shorts/V1lu1ZZ0HvY?feature=share)|
+|![video](https://github.com/djirotechno/Airus_project/blob/main/demo.mp4)|
