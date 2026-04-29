@@ -6,10 +6,10 @@ Montre connecte pour la surveillence de la qualite de l'aire
 
 ## Plan
 
- - [Fonctionalites](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Liste materiel](https://github.com/matiassingers/awesome-readme)
- - [Architecture](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
- - [Configuration](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Fonctionalites](#)
+ - [Liste materiel](#)
+ - [Architecture](#)
+ - [Configuration](#)
 
 ## Fonctionalitees
 
