@@ -68,8 +68,8 @@ et 2 structures publics (Hopital regional de ziguinchor - Aeropor international 
 
 |![demo](https://youtube.com/shorts/V1lu1ZZ0HvY)|
 
-<p align="center">
+|<p align="center">
   <a href="https://youtube.com/shorts/V1lu1ZZ0HvY">
     <img src="https://img.youtube.com/vi/V1lu1ZZ0HvY/0.jpg" alt="Demo Video">
   </a>
-</p>
+</p>|
