@@ -11,6 +11,7 @@ Ce système permet aussi de détecter les pics de pollution intérieure ou exté
  - [Liste materiel](#)
  - [Architecture](#)
  - [Deploiement](#)
+ - [Demo](#)
 
 ## Fonctionalitees
 
@@ -59,4 +60,5 @@ et 2 structures publics (Hopital regional de ziguinchor - Aeropor international 
 | :---: | :---: | :---: |
 | ![image](https://github.com/djirotechno/Airus_project/blob/main/deploiement/IMG_2837.JPG) | ![Alt Text 2](https://github.com/djirotechno/Airus_project/blob/main/deploiement/IMG_2879.JPG) | ![Alt Text 3](https://github.com/djirotechno/Airus_project/blob/main/deploiement/IMG_2973.JPG) |
 
-
+##Demo
+![demo](https://github.com/djirotechno/Airus_project/blob/main/demo.mp4)
