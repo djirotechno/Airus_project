@@ -22,7 +22,7 @@ Montre connecte pour la surveillence de la qualite de l'aire
 
 ### Apercu
 
-![App Screenshot](https://github.com/djirotechno/Airus_project/blob/main/deploiement/IMG_2448.HEIC)
+![App Screenshot](https://github.com/djirotechno/Airus_project/blob/main/deploiement/IMG_2448.png)
 
 
 ## Liste materiel 
