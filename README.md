@@ -19,6 +19,7 @@ Ce système permet aussi de détecter les pics de pollution intérieure ou exté
 - Affichage inteactif
 - Mode economie d'energie
 - Multiecran
+- Alert
 
 
 
@@ -43,7 +44,9 @@ Ce système permet aussi de détecter les pics de pollution intérieure ou exté
 
 ![architecture_airus](https://github.com/djirotechno/Airus_project/blob/main/architecture_airus.png)
 
-
+### Cablage
+|pin5|
+||
 
 
 ## Deploiement des capteurs
