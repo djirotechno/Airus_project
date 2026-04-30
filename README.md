@@ -60,7 +60,7 @@ Ce système permet aussi de détecter les pics de pollution intérieure ou exté
 ### Bibliotechs et logiciels
  - Arduino IDE
  - Creality Print
- - Solidework
+ - Solidworks
  - WiFi.h
  - WiFiManager.h
  - HTTPClient.h
