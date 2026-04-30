@@ -57,6 +57,17 @@ Ce système permet aussi de détecter les pics de pollution intérieure ou exté
 |BTouch:VCC | esp:3.3v|
 |BTouch:GND"|esp:GND|
 
+### Bibliotechs et logiciels
+ - Arduino IDE
+ - Creality Print
+ - Solidework
+ - WiFi.h
+ - WiFiManager.h
+ - HTTPClient.h
+ - ArduinoJson.h
+ - Wire.h
+ - Adafruit_GFX.h
+ - Adafruit_SSD1306.h
 
 ## Deploiement des capteurs
 
